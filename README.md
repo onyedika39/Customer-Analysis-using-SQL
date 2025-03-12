@@ -24,6 +24,31 @@ MySQL or PostgreSQL for database management.
 Here are some key SQL queries used in the project:
 
 1. Total Spending by Customer
+   https://github.com/onyedika39/Customer-Analysis-using-SQL/blob/main/Screenshot%202025-03-12%20163534.png
+   This query calculates the total amount spent by each customer and ranks them.
+
+2.  Most Popular Menu Item
+https://github.com/onyedika39/Customer-Analysis-using-SQL/blob/main/Screenshot%202025-03-12%20163601.png  
+This query identifies the most popular menu items based on the number of times they were ordered.
+
+3. Spending by Meal Type
+https://github.com/onyedika39/Customer-Analysis-using-SQL/blob/main/Screenshot%202025-03-12%20163626.png
+This query tracks the number of customer visits per month, allowing you to identify trends and seasonal patterns.
+
+## Insights and Results
+Customer Loyalty: Customers with loyalty status tend to spend more and visit more frequently.
+Popular Menu Items: Certain menu items, like 'Pasta Primavera' and 'Grilled Chicken', are significantly more popular than others.
+Meal Preferences: Customers tend to spend more during dinner hours than during breakfast or lunch.
+Seasonal Trends: The restaurant experiences higher traffic and spending during holiday seasons, particularly December.
+## Conclusion
+This analysis provides a clear picture of customer behavior and spending patterns at the restaurant. By leveraging SQL, we can effectively query and analyze large datasets to uncover trends and insights that can drive business decisions. The findings can help improve customer retention strategies, menu planning, and marketing efforts.
+
+## Future Work
+Conducting deeper analysis of customer feedback and reviews to understand dining satisfaction.
+Exploring the impact of promotions and discounts on customer spending and loyalty.
+Implementing a predictive model for customer churn using historical data.
+
+
 
 
 
